@@ -1,4 +1,4 @@
-//teste
+//teste2
 document.addEventListener('DOMContentLoaded', () => {
     // Funções para carregar, adicionar, atualizar e excluir itens
     function loadItems() {
